@@ -18,11 +18,6 @@ A BIN is **shared** if it contains specimens of two or more morphospecies.
 | **SPLIT** | >1 BIN, all exclusive | Single morphospecies spans multiple BINs; potential cryptic diversity |
 | **MIXTURE** | >1 BIN; ≥1 exclusive AND ≥1 shared | Complex pattern; possible cryptic diversity combined with misidentification or gene flow |
 
-## Critical note on MERGE vs MIXTURE
-
-A species spanning multiple BINs is **MERGE** (not MIXTURE) if **all** of its BINs are shared — i.e., it has zero exclusive BINs. MIXTURE requires at least one exclusive BIN in addition to at least one shared BIN.
-
-This distinction matters: a species assigned to multiple shared BINs reflects a different biological scenario (merging with multiple other species, perhaps through convergence or shallow divergence) than a species with its own private BIN that also bleeds into another species' BIN.
 
 ## Implementation
 
