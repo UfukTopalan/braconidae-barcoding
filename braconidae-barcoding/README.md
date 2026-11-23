@@ -66,7 +66,7 @@ braconidae-barcoding/
 │   └── concordance_logic.md         # Detailed explanation of category assignment
 │
 ├── .gitignore
-├── LICENSE
+├
 └── README.md                        ← you are here
 ```
 
