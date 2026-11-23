@@ -2,7 +2,6 @@
 
 [![DOI](https://img.shields.io/badge/DOI-pending-lightgrey)](https://github.com/UfukTopalan)
 [![R](https://img.shields.io/badge/R-%3E%3D4.3-steelblue?logo=R)](https://www.r-project.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![IQ-TREE2](https://img.shields.io/badge/IQ--TREE2-v2.3-orange)](http://www.iqtree.org/)
 [![MAFFT](https://img.shields.io/badge/MAFFT-v7-green)](https://mafft.cbrc.jp/)
 
