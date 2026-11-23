@@ -48,7 +48,7 @@ braconidae-barcoding/
 │   ├── 03_taxonomic_hotspots.R      # Subfamily & genus discordance rates
 │   ├── 04_taxonomic_depth.R         # BIN-level discordance depth
 │   ├── 05_sequence_glm.R            # GLM: sequence length vs. concordance outcome
-│   └── 06_ml_trees.R                # ML tree visualisation (genus, BIN, Exotela case study)
+│   └── 06_ml_trees.R                # ML tree visualisation
 │
 ├── scripts/
 │   └── hpc/
