@@ -4,9 +4,8 @@
 #SBATCH --partition=small
 #SBATCH --time=02:00:00
 #SBATCH --ntasks=2
-#SBATCH --mem-per-cpu=4000
-#SBATCH --output=logs/mafft_%j.out
-#SBATCH --error=logs/mafft_%j.err
+#SBATCH --cpus-per-task=16
+#SBATCH --mem=32G
 
 # ============================================================
 # COI Multiple Sequence Alignment — MAFFT
