@@ -15,7 +15,10 @@ This repository contains the full analysis pipeline for a study examining the co
 
 ### Key findings at a glance
 
-| Metric | Value |
+<!--
+This text will not be visible on GitHub.
+But it will remain in the README.md source code.
+
 |--------|-------|
 | Dominant concordance category | **MERGE** |
 | Overall discordance rate (with singletons) | **57%** |
@@ -33,7 +36,7 @@ This repository contains the full analysis pipeline for a study examining the co
 | **MIXTURE** | >1 BIN, at least one exclusive AND at least one shared |
 
 ---
-
+-->| 
 ## 🗂️ Repository Structure
 
 ```
@@ -142,11 +145,14 @@ source("R/06_ml_trees.R")
 | `03_taxonomic_hotspots.R` | Fig. 2 | Subfamily discordance rates; genus hotspot lollipop |
 | `04_taxonomic_depth.R` | Fig. S2 | BIN-level discordance depth |
 | `05_sequence_glm.R` | Fig. S3 | Raincloud plot & GLM: length vs. concordance |
-| `06_ml_trees.R` | Fig. 3–5 | ML trees: BIN AAA7636, 4-category genus, *Exotela* corrections |
+| `06_ml_trees.R` | Fig. 3–5 | ML trees:|
 
 ---
 
 ## 🔬 Case Studies
+<!--
+This text will not be visible on GitHub.
+But it will remain in the README.md source code.
 
 Three genera/BINs are used to illustrate distinct concordance-discordance drivers:
 
@@ -157,7 +163,7 @@ Three genera/BINs are used to illustrate distinct concordance-discordance driver
 3. **Operational misidentification** — *Exotela* (Dacnusini): 10 of 14 specimens morphologically re-examined by Charles Godfray; corrections fully resolve the tree topology, attributing discordance to original misidentification rather than biological signal.
 
 ---
-
+-->| 
 ## 📦 Data Availability
 
 Raw COI sequences are deposited in **BOLD** (Barcode of Life Data System). Morphological identifications and specimen metadata are associated with museum voucher specimens held at the **Finnish Museum of Natural History (MZH)**. See `data/example/README.md` for the column structure of the input data frame.
@@ -181,6 +187,3 @@ Raw COI sequences are deposited in **BOLD** (Barcode of Life Data System). Morph
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
