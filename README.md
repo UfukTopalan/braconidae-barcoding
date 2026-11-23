@@ -124,6 +124,7 @@ source("R/06_ml_trees.R")
 
 ---
 
+<!--
 ## 📊 Figures produced
 
 | Script | Figure | Description |
@@ -136,7 +137,7 @@ source("R/06_ml_trees.R")
 | `06_ml_trees.R` | Fig. 3–5 | ML trees: BIN AAA7636, 4-category genus, *Exotela* corrections |
 
 ---
-
+-->
 
 
 ## 📦 Data Availability
