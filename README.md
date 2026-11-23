@@ -1,4 +1,4 @@
-# 🐝 Finnish Braconidae: DNA Barcoding vs. Morphology
+# 🐝 Finnish Braconidae: DNA Barcoding vs Morphology
 
 [![DOI](https://img.shields.io/badge/DOI-pending-lightgrey)](https://github.com/UfukTopalan)
 [![R](https://img.shields.io/badge/R-%3E%3D4.3-steelblue?logo=R)](https://www.r-project.org/)
