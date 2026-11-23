@@ -167,7 +167,7 @@ Raw COI sequences are deposited in **BOLD** (Barcode of Life Data System). Morph
 
 ## 📖 Citation
 
-> Topalan U., Mutanen M., Godfray H.C.J., Sharkey M. *et al.* (in prep.) Concordance and discordance between morphological identification and DNA barcoding in Finnish Braconidae (Hymenoptera).
+> Topalan U., Mutanen M., Godfray H.C.J., Sharkey M. *et al.* (in prep.) 
 
 ---
 
