@@ -14,7 +14,7 @@ A BIN is **shared** if it contains specimens of two or more morphospecies.
 | Category | Conditions | Biological interpretation |
 |----------|-----------|--------------------------|
 | **MATCH** | 1 BIN, exclusive | BIN and morphospecies boundaries agree |
-| **MERGE** | ≥1 BIN, none exclusive | Multiple morphospecies collapsed into shared BINs; genetic divergence below BIN threshold |
+| **MERGE** | ≥1 BIN, none exclusive | Multiple morphospecies collapsed into shared BINs; genetic divergence below BIN threshold or oversplitting of the species |
 | **SPLIT** | >1 BIN, all exclusive | Single morphospecies spans multiple BINs; potential cryptic diversity |
 | **MIXTURE** | >1 BIN; ≥1 exclusive AND ≥1 shared | Complex pattern; possible cryptic diversity combined with misidentification or gene flow |
 
