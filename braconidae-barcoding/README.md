@@ -137,7 +137,7 @@ source("R/06_ml_trees.R")
 ---
 
 ## 📊 Figures produced
-
+<!--
 | Script | Figure | Description |
 |--------|--------|-------------|
 | `01_sequencing_quality.R` | Fig. S1 | COI effective length vs. specimen age, by protocol |
@@ -148,7 +148,7 @@ source("R/06_ml_trees.R")
 | `06_ml_trees.R` | Fig. 3–5 | ML trees:|
 
 ---
-
+--> 
 ## 🔬 Case Studies
 <!--
 This text will not be visible on GitHub.
