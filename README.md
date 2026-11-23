@@ -6,7 +6,7 @@
 [![IQ-TREE2](https://img.shields.io/badge/IQ--TREE2-v2.3-orange)](http://www.iqtree.org/)
 [![MAFFT](https://img.shields.io/badge/MAFFT-v7-green)](https://mafft.cbrc.jp/)
 
-> Comparing morphological species identifications with BOLD BIN clustering across Finnish Braconidae (Hymenoptera: Braconidae) museum specimens — a reproducible analysis pipeline.
+> Comparing morphological species identifications with BOLD BIN clustering across Finnish Braconidae (Hymenoptera: Braconidae) museum specimens, a reproducible analysis pipeline.
 
 ---
 
