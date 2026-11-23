@@ -11,7 +11,7 @@
 
 ## 📋 Overview
 
-This repository contains the full analysis pipeline for a study examining the concordance between morphology-based species identification and molecular BIN (Barcode Index Number) clustering in Finnish **Braconidae** parasitoid wasps. Specimens derive from the natural history museum collections of the Finnish Museum of Natural History (MZH), sequenced using both **FOA (Fiber-Optic Array)** and **SMRT** high-throughput sequencing protocols.
+This repository contains the full analysis pipeline for a study examining the concordance between morphology-based species identification and molecular BIN (Barcode Index Number) clustering in Finnish **Braconidae** parasitoid wasps. Specimens derive from the natural history museum collections of the Finnish Museum of Natural History (MZH), sequenced using both **FOA (Fragment-based approach)** and **SMRT (Standard Barcoding)** high-throughput sequencing protocols.
 
 ### Key findings at a glance
 
