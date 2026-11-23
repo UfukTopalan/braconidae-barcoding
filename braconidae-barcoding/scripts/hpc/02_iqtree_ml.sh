@@ -2,11 +2,10 @@
 #SBATCH --job-name=iqtree_ml
 #SBATCH --account=project_2013890
 #SBATCH --partition=small
-#SBATCH --time=71:00:00
-#SBATCH --ntasks=2
-#SBATCH --mem-per-cpu=4000
-#SBATCH --output=logs/iqtree_%j.out
-#SBATCH --error=logs/iqtree_%j.err
+#SBATCH --time=20:00:00
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=16
+#SBATCH --mem=32G
 
 # ============================================================
 # Maximum Likelihood Phylogeny — IQ-TREE2
