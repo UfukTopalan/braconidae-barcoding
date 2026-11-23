@@ -145,8 +145,3 @@ source("R/06_ml_trees.R")
 Raw COI sequences are deposited in **BOLD** (Barcode of Life Data System). Morphological identifications and specimen metadata are associated with museum voucher specimens held at the **Finnish Museum of Natural History (MZH)**. See `data/example/README.md` for the column structure of the input data frame.
 
 ---
-
-
-## 📄 License
-
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
