@@ -36,7 +36,7 @@ But it will remain in the README.md source code.
 | **MIXTURE** | >1 BIN, at least one exclusive AND at least one shared |
 
 ---
--->| 
+--> 
 ## 🗂️ Repository Structure
 
 ```
@@ -163,7 +163,7 @@ Three genera/BINs are used to illustrate distinct concordance-discordance driver
 3. **Operational misidentification** — *Exotela* (Dacnusini): 10 of 14 specimens morphologically re-examined by Charles Godfray; corrections fully resolve the tree topology, attributing discordance to original misidentification rather than biological signal.
 
 ---
--->| 
+-->
 ## 📦 Data Availability
 
 Raw COI sequences are deposited in **BOLD** (Barcode of Life Data System). Morphological identifications and specimen metadata are associated with museum voucher specimens held at the **Finnish Museum of Natural History (MZH)**. See `data/example/README.md` for the column structure of the input data frame.
