@@ -176,14 +176,3 @@ Raw COI sequences are deposited in **BOLD** (Barcode of Life Data System). Morph
 
 ---
 
-## 👥 Authors & Contributions
-
-| Name | Affiliation | Role |
-|------|-------------|------|
-| **Ufuk Topalan** | University of Oulu | Analysis, writing, code |
-| **Marko Mutanen** | University of Oulu | Supervision |
-| **Charles Godfray** | University of Oxford | *Exotela* / Dacnusini morphology |
-| **Mike Sharkey** | — | Braconidae taxonomy |
-
----
-
